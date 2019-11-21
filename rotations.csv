@@ -1,0 +1,18 @@
+rotation,rotation2
+ROT1,continuous corn
+ROT2,continuous soybean
+ROT4,CORN-soybean
+ROT5,corn-SOYBEAN
+ROT6,CORN-soybean-wheat
+ROT7,corn-SOYBEAN-wheat
+ROT8,corn-soybean-WHEAT
+ROT15,CORN-soybean-wheat/red clover or mixed cover crop
+ROT16,corn-SOYBEAN-wheat/red clover or mixed cover crop
+ROT17,corn-soybean-WHEAT/RED CLOVER or mixed cover crop
+ROT18,CORN-wheat-soybean
+ROT19,corn-WHEAT-soybean
+ROT36,CORN-soybean with rye cover
+ROT37,corn-SOYBEAN with rye cover
+ROT38,continuous corn with rye cover
+ROT39,continuous soybean with rye cover
+ROT40,prairie (managed by cutting 2+/year)
